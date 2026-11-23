@@ -1,0 +1,22 @@
+campaign_id,source,public_url,downloaded_for_annotation,trajectory_unit
+idea001,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea001,True,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea002,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea002,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea003,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea003,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea004,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea004,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea005,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea005,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea006,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea006,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea007,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea007,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea008,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea008,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea009,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea009,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea010,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea010,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea011,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea011,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea012,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea012,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea013,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea013,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea014,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea014,True,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea015,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea015,True,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea016,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea016,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea017,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea017,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea018,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea018,True,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea019,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea019,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea020,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea020,False,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result
+idea021,AutoSapiens / MultiAgentAutoResearch,https://github.com/yanghangAI/autosapiens/tree/main/runs/idea021,True,Architect idea -> Designer design -> Reviewer review -> Builder/code review -> experiment result

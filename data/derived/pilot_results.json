@@ -1,0 +1,34 @@
+{
+  "trajectory_count": 20,
+  "event_count": 5329,
+  "word_count": 658928,
+  "linear_slope_per_normalized_trajectory": {
+    "referential_per_1k": 1.3834937680311807,
+    "vague_np_per_1k": 0.24005159003814688,
+    "candidate_shorthand_per_1k": -0.38626016075960035,
+    "acronym_per_1k": 12.108553168963912
+  },
+  "late_minus_early_summary": {
+    "referential_delta_per_1k": {
+      "median": -0.008466011843951904,
+      "positive_trajectories": 10,
+      "negative_trajectories": 10
+    },
+    "vague_np_delta_per_1k": {
+      "median": 0.23035761698138346,
+      "positive_trajectories": 12,
+      "negative_trajectories": 8
+    },
+    "candidate_shorthand_delta_per_1k": {
+      "median": -0.4961099833648661,
+      "positive_trajectories": 8,
+      "negative_trajectories": 12
+    },
+    "acronym_delta_per_1k": {
+      "median": 0.6909423121923705,
+      "positive_trajectories": 11,
+      "negative_trajectories": 9
+    }
+  },
+  "warning": "These are lexical proxies, not validated human-comprehension or coreference measures."
+}

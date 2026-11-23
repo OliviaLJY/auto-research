@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# Raw public downloads and generated event-level corpora are reproducible but large.
+data/raw/
+data/derived/sciagent_long20.jsonl
+data/derived/event_metrics.csv
+
+# Local working files and document exports are not part of the research repository.
+work/
+outputs/
+*.docx
+*.pdf
+*.zip
